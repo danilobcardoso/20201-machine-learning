@@ -1,0 +1,5 @@
+pneumonia/dataset/*
+taekwondo/dataset/*
+taekwondo/deprecated/*
+pneumonia/.ipynb_checkpoints/*
+taekwondo/src/preprocessing/__pycache__/*
