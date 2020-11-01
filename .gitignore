@@ -1,5 +1,6 @@
 pneumonia/dataset/*
 taekwondo/dataset/*
 taekwondo/deprecated/*
-pneumonia/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
 taekwondo/src/preprocessing/__pycache__/*
+classes/*
